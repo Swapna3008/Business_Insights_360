@@ -77,7 +77,7 @@ During this project, the following Power BI techniques were applied:
 
 The project follows a **Snowflake schema**, connecting fact tables (Sales, Forecast, Finance) with dimension tables (Customer, Market, Product, Date) to ensure scalability and performance.  
 
-![Data Model](PowerBI/data_model.png)
+![Data Model](PowerBI/Data_model.png)
 
 ---
 
