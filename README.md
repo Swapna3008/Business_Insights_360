@@ -9,6 +9,7 @@ This project was built as part of the **Codebasics Business Insights 360 Power B
 The objective was to convert scattered business data into a structured decision-support system that helps stakeholders understand performance, diagnose issues, and take informed actions.  
 
 🔗 **Course Link:** https://codebasics.io  
+
 🔗 **Live Power BI Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiY2JjNTVhOTgtZGJhMy00YTMxLTkzM2MtOGRkZmQ3MGM2OWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  
 
 *(Power BI login may be required depending on access settings.)*
@@ -171,4 +172,3 @@ The full interactive Power BI report is available here:
 🔗 **Live Power BI Dashboard:**  
 https://app.powerbi.com/view?r=eyJrIjoiY2JjNTVhOTgtZGJhMy00YTMxLTkzM2MtOGRkZmQ3MGM2OWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  
 
-*(Access may depend on workspace permissions.)*
